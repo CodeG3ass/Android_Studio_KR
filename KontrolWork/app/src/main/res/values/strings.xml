@@ -1,9 +1,16 @@
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="headtext">Переутомление (Ортастатическая проба)</string>
+    <string name="app_name">Kontrol work</string>
+    <string name="heading">Переутомление (ортостатическая проба)</string>
+    <string name="desc">Для прохождения теста необходимо иметь возможность лечь на 5 минут. Время проведения теста около 10–15 минут.</string>
     <string name="test">Тест</string>
-    <string name="desc">ля прохождения теста необходимо иметь возможность лечь на 5 минут. Время проведения теста около 10-15 минут.</string>
     <string name="birthday">День вашего рождения:</string>
+    <string name="sex">Пол:</string>
+    <string name="results">Результаты теста</string>
+    <string name="error_results">Введенные вами значения некорректны. Попробуйте снова.</string>
+    <string name="bad_results">Внимание! Введенные вами значения соотвествуют высокому уровню переутомления. Рекомендуется немедленно снизить нагрузки и при необходимости обратиться к врачу.</string>
+    <string name="medium_results">Введенные вами значения соотвествуют среднему уровню переутомления. Рекомендуется снизить нагрузку в ближайшее время.</string>
+    <string name="good_results">Введенные вами значения соотвествуют остутствию переутомления. Вы в полном порядке.</string>
+    <string name="set_date">Выбрать дату</string>
     <string name="text2">1. Необходимо лечь и лежать 5 минут почти без движений.</string>
     <string name="text9">Пол.</string>
     <string name="text3">2. Посчтиать пульс в течении минуты.</string>
@@ -15,5 +22,5 @@
     <string name="text12">Результаты теста!</string>
     <string name="text13">Не забывай о регулярном профессионарльном медицинском осмотре!</string>
     <string name="button_text">Ввод</string>
-
+    <string name="headtext">Переутомление (Ортастатическая проба)</string>
 </resources>
